@@ -169,7 +169,7 @@ class CUASkillAgent(BaseAgent):
                         )
                     )
 
-                    continue
+
 
             time.sleep(1)
 
